@@ -1,0 +1,15 @@
+[package]
+name = "netutils"
+version = "0.1.0"
+authors = ["Pravin Gohite <pravin.gohite@gmail.com>"]
+description = "Common network utilities"
+edition = "2018"
+keywords = ["network", "net", "tcp", "port"]
+repository = "https://github.com/pgohite/netutils"
+documentation = "https://docs.rs/netutils/"
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
