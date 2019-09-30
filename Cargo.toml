@@ -1,6 +1,6 @@
 [package]
 name = "netutils"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Pravin Gohite <pravin.gohite@gmail.com>"]
 description = "Common network utilities"
 edition = "2018"
